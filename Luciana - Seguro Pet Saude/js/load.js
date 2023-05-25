@@ -1192,7 +1192,7 @@ function loadSection() {
                                     <box-icon color="#121718" size="22px" name='instagram' type='logo' >Instagram</box-icon>
                                 </a>
 
-                                <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/seguropetsaude.petlove.plamev" aria-label="Icone Facebook">
+                                <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/seguropetpetlovesaudeplamev " aria-label="Icone Facebook">
                                     <box-icon color="#121718" size="22px" name='facebook-circle' type='logo' >Facebook</box-icon>
                                 </a>
                             </div>
