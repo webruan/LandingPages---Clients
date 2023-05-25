@@ -1008,18 +1008,7 @@ function loadSection() {
 
                                 <div class="box">
                                     <div class="img">
-                                        <picture>
-                                            <source media="(min-width: 1400px)" srcset="../src/images/desktop/1400px/cat-book.webp">
-                                            <source media="(min-width: 1200px)" srcset="../src/images/desktop/1200px/cat-book.webp">
-                                            <source media="(min-width: 992px)" srcset="../src/images/desktop/992px/cat-book.webp">
-                                            <source media="(min-width: 768px)" srcset="../src/images/tablet/768px/cat-book.webp">
-                                            <source media="(min-width: 576px)" srcset="../src/images/tablet/576px/cat-book.webp">
-                                            <source media="(min-width: 480px)" srcset="../src/images/tablet/480px/cat-book.webp">
-                                            <source media="(min-width: 414px)" srcset="../src/images/mobile/414px/cat-book.webp">
-                                            <source media="(min-width: 376px)" srcset="../src/images/mobile/376px/cat-book.webp">
-                                            <source media="(min-width: 320px)" srcset="../src/images/mobile/320px/cat-book.webp">
-                                            <img loading="lazy" src="../src/images/desktop/1400px/cat-book.webp" alt="Gato lendo livro">
-                                        </picture>
+                                        <box-icon name='select-multiple' color='#0bcdf8' ></box-icon>
                                     </div>
 
                                     <div class="text">
@@ -1041,18 +1030,7 @@ function loadSection() {
 
                                 <div class="box">
                                     <div class="img">
-                                        <picture>
-                                            <source media="(min-width: 1400px)" srcset="../src/images/desktop/1400px/dog-pc.webp">
-                                            <source media="(min-width: 1200px)" srcset="../src/images/desktop/1200px/dog-pc.webp">
-                                            <source media="(min-width: 992px)" srcset="../src/images/desktop/992px/dog-pc.webp">
-                                            <source media="(min-width: 768px)" srcset="../src/images/tablet/768px/dog-pc.webp">
-                                            <source media="(min-width: 576px)" srcset="../src/images/tablet/576px/dog-pc.webp">
-                                            <source media="(min-width: 480px)" srcset="../src/images/tablet/480px/dog-pc.webp">
-                                            <source media="(min-width: 414px)" srcset="../src/images/mobile/414px/dog-pc.webp">
-                                            <source media="(min-width: 376px)" srcset="../src/images/mobile/376px/dog-pc.webp">
-                                            <source media="(min-width: 320px)" srcset="../src/images/mobile/320px/dog-pc.webp">
-                                            <img loading="lazy" src="../src/images/desktop/1400px/dog-pc.webp" alt="Cachorro mexendo no notebook">
-                                        </picture>
+                                        <box-icon name='credit-card-alt' color='#0bcdf8'></box-icon>
                                     </div>
 
                                     <div class="text">
@@ -1074,18 +1052,7 @@ function loadSection() {
 
                                 <div class="box">
                                     <div class="img">
-                                        <picture>
-                                            <source media="(min-width: 1400px)" srcset="../src/images/desktop/1400px/cat-dog-vet.webp">
-                                            <source media="(min-width: 1200px)" srcset="../src/images/desktop/1200px/cat-dog-vet.webp">
-                                            <source media="(min-width: 992px)" srcset="../src/images/desktop/992px/cat-dog-vet.webp">
-                                            <source media="(min-width: 768px)" srcset="../src/images/tablet/768px/cat-dog-vet.webp">
-                                            <source media="(min-width: 576px)" srcset="../src/images/tablet/576px/cat-dog-vet.webp">
-                                            <source media="(min-width: 480px)" srcset="../src/images/tablet/480px/cat-dog-vet.webp">
-                                            <source media="(min-width: 414px)" srcset="../src/images/mobile/414px/cat-dog-vet.webp">
-                                            <source media="(min-width: 376px)" srcset="../src/images/mobile/376px/cat-dog-vet.webp">
-                                            <source media="(min-width: 320px)" srcset="../src/images/mobile/320px/cat-dog-vet.webp">
-                                            <img loading="lazy" src="../src/images/desktop/1400px/cat-dog-vet.webp" alt="Cachorro examinando gato">
-                                        </picture>
+                                        <box-icon name='check-shield' color='#0bcdf8'></box-icon>
                                     </div>
 
                                     <div class="text">
@@ -1100,7 +1067,7 @@ function loadSection() {
                 </div>
             </div>
         </div>
-        `
+        `;
 
         form =
         `
