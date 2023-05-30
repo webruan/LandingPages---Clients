@@ -1171,49 +1171,43 @@ function loadSection() {
 
         footer =
         `
-        <div class="container footer">
-            <div class="content">
-                <div class="column">
-                    <div class="row">
-                        <div class="column left">
-                            <div class="text">
-                                <small>Águia Corretagem de Seguros LTDA</small>
-                                <small>CNPJ: 51.957.843/0001-11</small>
-                            </div>
-                        </div>
-        
-                        <div class="column center">
-                            <div class="text">
-                                <p>Nos siga nas redes sociais!</p>
-                            </div>
-
-                            <div class="icons">
-                                <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/seguropet.saude" aria-label="Icone Instagram">
-                                    <box-icon color="#121718" size="22px" name='instagram' type='logo' >Instagram</box-icon>
-                                </a>
-
-                                <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/seguropetpetlovesaudeplamev " aria-label="Icone Facebook">
-                                    <box-icon color="#121718" size="22px" name='facebook-circle' type='logo' >Facebook</box-icon>
-                                </a>
-                            </div>
-                        </div>
-        
-                        <div class="column right">
-                            <div class="text">
-                                <p>
-                                    <a href="/termos.html">Termos de Uso</a>
-                                    |
-                                    <a href="/privacidade.html">Política de Privacidade</a>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="text">
-                        <small>Copyright 2022 © Todos os direitos reservados à Águia Corretagem</small>
-                    </div>
+        <div class="row">
+            <div class="column left">
+                <div class="text">
+                    <small>Águia Corretagem de Seguros LTDA</small>
+                    <small>CNPJ: 51.957.843/0001-11</small>
                 </div>
             </div>
+
+            <div class="column center">
+                <div class="text">
+                    <p>Nos siga nas redes sociais!</p>
+                </div>
+
+                <div class="icons">
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/seguropet.saude" aria-label="Icone Instagram">
+                        <box-icon color="#121718" size="22px" name='instagram' type='logo' >Instagram</box-icon>
+                    </a>
+
+                    <a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/seguropetpetlovesaudeplamev " aria-label="Icone Facebook">
+                        <box-icon color="#121718" size="22px" name='facebook-circle' type='logo' >Facebook</box-icon>
+                    </a>
+                </div>
+            </div>
+
+            <div class="column right">
+                <div class="text">
+                    <p>
+                        <a href="/termos.html">Termos de Uso</a>
+                        |
+                        <a href="/privacidade.html">Política de Privacidade</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <div class="text">
+            <small>Copyright 2022 © Todos os direitos reservados à Águia Corretagem</small>
         </div>
         `;
     }
